@@ -13,8 +13,8 @@
 <p><b>Q: Why doesn't this script have a specific command?
  
 (Example: "Why doesn't this script have a /anontweet command?")</b>
-</p><p>A: FiveM Community Commands is still Early Release and is constantly being updated if you have a
-Command you would to see added you can make a suggestion using the link "Suggestions" button below!</p>
+</p><p>A: FiveM Community Commands is still Early Release stages and is constantly being updated if you have a
+Command you would like to see added you can make a suggestion using the link "Suggestions" button below!</p>
 <hr>
 <b>Is Arcane's code public?</b>
 <p>Arcane's code is not public and we don't have any plans of making it public.</p>
@@ -32,7 +32,7 @@ develop before giving you a response. Keep in mind, not all requests are accepte
 <b>Documentation</b>
 <br>
 <a target="_blank" onclick="trackCampaignWebClick('', 'description');" rel="nofollow" href="https://docs.arcanebot.xyz">View Here</a><p></p>
-<h4 style="margin-bottom: -1px;">Have a bug or a suggestion?</h4>
+<h1 style="margin-bottom: -1px;">Have a suggestion?</h4>
 <h5>Please contact us within our <a target="_blank" onclick="trackCampaignWebClick('', 'description');" rel="nofollow" href="https://discord.gg/467YPjF">Discord</a> server.</h5>
 </center>
 </body></html>
