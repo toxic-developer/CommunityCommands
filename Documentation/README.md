@@ -33,6 +33,6 @@ develop before giving you a response. Keep in mind, not all requests are accepte
 <br>
 <a target="_blank" onclick="trackCampaignWebClick('', 'description');" rel="nofollow" href="https://docs.arcanebot.xyz">View Here</a><p></p>
 <h1 style="margin-bottom: -1px;">Have a suggestion?</h4>
-<h5>Please contact us within our <a target="_blank" onclick="trackCampaignWebClick('', 'description');" rel="nofollow" href="https://discord.gg/467YPjF">Discord</a> server.</h5>
+<h2>Please contact us within our <a target="_blank" onclick="trackCampaignWebClick('', 'description');" rel="nofollow" href="https://discord.gg/467YPjF">Discord</a> server.</h5>
 </center>
 </body></html>
