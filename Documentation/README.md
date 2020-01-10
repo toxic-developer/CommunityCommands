@@ -6,7 +6,7 @@
 <img alt="Server Sided" src="https://i.imgur.com/fpAWLuB.png" width="100">
 <div style="margin: 0 auto; width: 50%; font-weight: normal;">
 <hr>
-<h1 style="font-size: 16px;">FiveM Community Commands is a Community/User
+<h3 style="font-size: 16px;">FiveM Community Commands is a Community/User
     Driven script meaning we Listen to our users and update based on suggestions.</h1>
 <hr>
 <h1>FAQ's</h1>
