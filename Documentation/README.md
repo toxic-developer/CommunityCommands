@@ -13,8 +13,8 @@
 <p><b>Q: Why doesn't this script have a specific command?
  
 (Example: "Why doesn't this script have a /anontweet command?")</b>
-</p><p>A: Arcane can't give the role if the Arcane role is under the specified role.
-To fix the problem we recommend you place Arcane's role above the top or above the roles needed to give.</p>
+</p><p>A: FiveM Community Commands is still Early Release and is constantly being updated if you have a
+Command you would to see added you can make a suggestion [Here](https://github.com/TheRealToxicDev/FiveM-Community-Commands/blob/ServerCommands-V1.0.2/requests/COMMAND-REQUESTS.md)</p>
 <hr>
 <b>Is Arcane's code public?</b>
 <p>Arcane's code is not public and we don't have any plans of making it public.</p>
