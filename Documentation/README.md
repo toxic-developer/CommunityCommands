@@ -3,10 +3,10 @@
 <img alt="Server Sided" src="https://i.imgur.com/fpAWLuB.png" width="100">
 <p>FiveM Coummunity Commands is a Server Sided Script made to provide you
    With All Your Essential Roleplay Commands (/911, /dispatch & More)</p>
-<img alt="Community Driven" src="https://i.imgur.com/GCEszCt.png" width="100"> 
 <div style="margin: 0 auto; width: 50%; font-weight: normal;">
 <hr>
-<h3 style="font-size: 16px;">FiveM Community Commands is a Community/User
+<img alt="Community Driven" src="https://i.imgur.com/GCEszCt.png" width="100"> 
+<h4 style="font-size: 16px;">FiveM Community Commands is a Community/User
     Driven script meaning we Listen to our users and update based on suggestions.</h1>
 <hr>
 <h1>FAQ's</h1>
