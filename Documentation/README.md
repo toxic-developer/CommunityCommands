@@ -11,7 +11,7 @@
 <hr>
 <h1>FAQ's</h1>
 <p><b>Why doesn't this script have a specific command?</b>
-      Example: Why doesn't this script have a /anontweet command</b>
+      (**Example:** Why doesn't this script have a /anontweet command?)</b>
 </p><p>Arcane can't give the role if the Arcane role is under the specified role.
 To fix the problem we recommend you place Arcane's role above the top or above the roles needed to give.</p>
 <br>
