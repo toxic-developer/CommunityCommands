@@ -14,7 +14,7 @@
  
 (Example: "Why doesn't this script have a /anontweet command?")</b>
 </p><p>A: FiveM Community Commands is still Early Release and is constantly being updated if you have a
-Command you would to see added you can make a suggestion [Here](https://github.com/TheRealToxicDev/FiveM-Community-Commands/blob/ServerCommands-V1.0.2/requests/COMMAND-REQUESTS.md)</p>
+Command you would to see added you can make a suggestion using the link "Suggestions" button below!</p>
 <hr>
 <b>Is Arcane's code public?</b>
 <p>Arcane's code is not public and we don't have any plans of making it public.</p>
