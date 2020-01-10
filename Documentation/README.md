@@ -29,10 +29,10 @@ request, it will enter into a review state. Our team will decide how much resour
 develop before giving you a response. Keep in mind, not all requests are accepted.</p>
 </div>
 <br>
-<b>Documentation</b>
+<h1 style="font-size: 92px; margin-bottom: -5px;">Documentation</h1>
 <br>
 <a target="_blank" onclick="trackCampaignWebClick('', 'description');" rel="nofollow" href="https://docs.arcanebot.xyz">View Here</a><p></p>
-<h5 style="margin-bottom: -1px;">Suggestions</h4>
+<h1 style="margin-bottom: -1px;">Suggestions</h4>
 <h4>Please contact us within our <a target="_blank" onclick="trackCampaignWebClick('', 'description');" rel="nofollow" href="https://discord.gg/467YPjF">Discord</a> server.</h5>
 </center>
 </body></html>
