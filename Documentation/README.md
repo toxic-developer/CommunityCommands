@@ -3,7 +3,7 @@
 <p>FiveM Coummunity Commands is a Server Sided Script made to provide you
 With All Your Essential Roleplay Commands (/911, /dispatch & More)</p>
 <img alt="Community Driven" src="https://i.imgur.com/GCEszCt.png" width="100">
-<img alt="Server Sided" src="https://i.imgur.com/QT9lhng.png" width="100">
+<img alt="Server Sided" src="https://i.imgur.com/n5qaFrU.png" width="100">
 <div style="margin: 0 auto; width: 50%; font-weight: normal;">
 <hr>
 <h1 style="font-size: 16px;">Arcane's goal is to connect communities together through discord with quality services
