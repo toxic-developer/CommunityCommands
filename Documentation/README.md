@@ -1,13 +1,13 @@
 </head><body><center>
 <h1 style="font-size: 92px; margin-bottom: -5px;">FiveM Community Commands</h1>
 <p>FiveM Coummunity Commands is a Server Sided Script made to provide you
-With All Your Essential Roleplay Commands (/911, /dispatch & More)</p>
+   With All Your Essential Roleplay Commands (/911, /dispatch & More)</p>
 <img alt="Community Driven" src="https://i.imgur.com/GCEszCt.png" width="100">
-<img alt="Server Sided" src="https://i.imgur.com/n5qaFrU.png" width="100">
+<img alt="Server Sided" src="https://i.imgur.com/fpAWLuB.png" width="100">
 <div style="margin: 0 auto; width: 50%; font-weight: normal;">
 <hr>
-<h1 style="font-size: 16px;">Arcane's goal is to connect communities together through discord with quality services
-    at a free cost to the user without sacrificing quality.</h1>
+<h1 style="font-size: 16px;">FiveM Community Commands is a Community/User
+    Driven script meaning we Listen to our users and update based on suggestions.</h1>
 <hr>
 <h1>FAQ</h1>
 <p><b>Why won't Arcane give the autorole or rewards I setup?</b>
