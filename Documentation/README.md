@@ -32,7 +32,7 @@ develop before giving you a response. Keep in mind, not all requests are accepte
 <b>Documentation</b>
 <br>
 <a target="_blank" onclick="trackCampaignWebClick('', 'description');" rel="nofollow" href="https://docs.arcanebot.xyz">View Here</a><p></p>
-<h3 style="margin-bottom: -1px;">Have a suggestion?</h4>
+<h5 style="margin-bottom: -1px;">Suggestions</h4>
 <h4>Please contact us within our <a target="_blank" onclick="trackCampaignWebClick('', 'description');" rel="nofollow" href="https://discord.gg/467YPjF">Discord</a> server.</h5>
 </center>
 </body></html>
