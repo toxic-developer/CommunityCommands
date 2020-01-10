@@ -1,5 +1,5 @@
 </head><body><center>
-<h1 style="font-size: 92px; margin-bottom: -5px;">Arcane</h1>
+<h1 style="font-size: 92px; margin-bottom: -5px;">FiveM Community Commands</h1>
 <p>Leveling, moderation, customizable, and more.</p>
 <img alt="Community Driven" src="https://i.imgur.com/VvAbr6z.png" width="100">
 <img alt="Made in Javascript" src="https://i.imgur.com/QT9lhng.png" width="100">
