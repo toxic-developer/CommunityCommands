@@ -14,20 +14,20 @@
  
 (Example: "Why doesn't this script have a /anontweet command?")</b>
 </p><p>A: FiveM Community Commands is still Early Release stages and is constantly being updated if you have a
-Command you would like to see added you can make a suggestion Using our Command Requests form <a target="_blank" onclick="trackCampaignWebClick('', 'description');" rel="nofollow" href="https://discord.gg/467YPjF">Here</a> All suggestions
+Command you would like to see added you can make a suggestion Using our Command Requests form <a target="_blank" onclick="trackCampaignWebClick('', 'description');" rel="nofollow" href="https://github.com/TheRealToxicDev/FiveM-Community-Commands/blob/ServerCommands-V1.0.2/requests/COMMAND-REQUESTS.md">Here</a> All suggestions
      Will be looked at in the order they were recieved, Suggestion forms should given to us in a Support Ticket on our Discord Server</p>
 <hr>
 <b>Are there any requirements?</b>
 <p>FiveM Community Commands is coded to work along side my FiveMToDiscord Logs Script.</p>
-<p>That can be found <a target="_blank" onclick="trackCampaignWebClick('', 'description');" rel="nofollow" href="https://discord.gg/467YPjF">Here</a> Make sure you
-download the newest version to avoid any issues.</p>
+<p>That can be found <a target="_blank" onclick="trackCampaignWebClick('', 'description');" rel="nofollow" href="https://github.com/TheRealToxicDev/FiveMToDiscord-Logs">Here</a> Make sure you
+go to the "Releases" section and download the newest version to avoid any issues.</p>
 <hr>
 <b>Do you provide code support?</b>
 <p>We do not offer support with code anymore. This hasn't always been the case, it's just come to the point where supporting took more time
 then developing and we would like to focus on maintaining our code.</p>
 <br>
-<b>When will my feature I've requested be added?</b>
-<p>First off, features requested will only be considered through the #suggestions channel on our Discord server. If you do submit a
+<b>When will my feature I've requested/suggested be added?</b>
+<p>First off, features requested will only be considered through the steps provided above. If you do submit a
 request, it will enter into a review state. Our team will decide how much resources are needed and how much time it will take to
 develop before giving you a response. Keep in mind, not all requests are accepted.</p>
 </div>
