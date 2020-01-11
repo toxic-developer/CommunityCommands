@@ -33,7 +33,7 @@ develop before giving you a response. Keep in mind, not all requests are accepte
 </div>
 <hr>
 <img alt="Documentation" src="https://i.imgur.com/n9wvTY5.png" width="200"> 
-<p>All of the FiveM Community Commands Documentation can be found <a target="_blank" onclick="trackCampaignWebClick('', 'description');" rel="nofollow" href="https://docs.arcanebot.xyz">Here</a><p> Please reference this link
+<p>All of the FiveM Community Commands Documentation can be found <a target="_blank" onclick="trackCampaignWebClick('', 'description');" rel="nofollow" href="https://therealtoxicdev.github.io/FiveM-Community-Commands/">Here</a><p> Please reference this link
    for support prior to reaching out to us as we will update it frequently with HotFixes and Bug Patches 😁</p>
 <hr>
 <img alt="Support" src="https://i.imgur.com/FQIqf6o.png" width="200"> 
