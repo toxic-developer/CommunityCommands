@@ -33,10 +33,10 @@ develop before giving you a response. Keep in mind, not all requests are accepte
 </div>
 <hr>
 <h1 style="font-size: 92px; margin-bottom: -5px;">Documentation</h1>
-<p>All of the FiveM Community Commands Docentation can be found <a target="_blank" onclick="trackCampaignWebClick('', 'description');" rel="nofollow" href="https://docs.arcanebot.xyz">View Here</a><p> Please reference this link
+<p>All of the FiveM Community Commands Docentation can be found <a target="_blank" onclick="trackCampaignWebClick('', 'description');" rel="nofollow" href="https://docs.arcanebot.xyz">Here</a><p> Please reference this link
    for support prior to reaching out to us as we will update it frequently with HotFixes and Bug Patches 😁</p>
 <hr>
 <h1 style="margin-bottom: -1px;">Suggestions</h4>
-<h4>Please contact us within our <a target="_blank" onclick="trackCampaignWebClick('', 'description');" rel="nofollow" href="https://discord.gg/467YPjF">Discord</a> server.</h5>
+<h4>To send in a Suggestion form or Contact us for support, Join our <a target="_blank" onclick="trackCampaignWebClick('', 'description');" rel="nofollow" href="https://discord.gg/467YPjF">Discord Server</a></h5>
 </center>
 </body></html>
