@@ -9,7 +9,7 @@
 <h4 style="font-size: 16px;">FiveM Community Commands is a Community/User
     Driven script meaning we Listen to our users and update based on suggestions.</h1>
 <hr>
-<img alt="Information" src="https://i.imgur.com/n3Ivrlg.png" width="150"> 
+<img alt="Information" src="https://i.imgur.com/n3Ivrlg.png" width="200"> 
 <p><b>Q: Why doesn't this script have a specific command?
  
 (Example: "Why doesn't this script have a /anontweet command?")</b>
