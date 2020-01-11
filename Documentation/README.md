@@ -16,8 +16,10 @@
 </p><p>A: FiveM Community Commands is still Early Release stages and is constantly being updated if you have a
 Command you would like to see added you can make a suggestion using the link "Suggestions" button below!</p>
 <hr>
-<b>Is Arcane's code public?</b>
-<p>Arcane's code is not public and we don't have any plans of making it public.</p>
+<b>Are there any requirements?</b>
+<p>FiveM Community Commands is coded to work along side my FiveMToDiscord Logs Script.</p>
+<p>That can be found<a target="_blank" onclick="trackCampaignWebClick('', 'description');" rel="nofollow" href="https://discord.gg/467YPjF">Here</a> Make sure you
+download the newest version to avoid any issues.</p>
 <br>
 <b>Do you provide code support?</b>
 <p>We do not support with code anymore. This hasn't always been the case, it's just come to the point where supporting took more time
