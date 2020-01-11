@@ -18,12 +18,12 @@ Command you would like to see added you can make a suggestion using the link "Su
 <hr>
 <b>Are there any requirements?</b>
 <p>FiveM Community Commands is coded to work along side my FiveMToDiscord Logs Script.</p>
-<p>That can be found<a target="_blank" onclick="trackCampaignWebClick('', 'description');" rel="nofollow" href="https://discord.gg/467YPjF">Here</a> Make sure you
+<p>That can be found <a target="_blank" onclick="trackCampaignWebClick('', 'description');" rel="nofollow" href="https://discord.gg/467YPjF">Here</a> Make sure you
 download the newest version to avoid any issues.</p>
-<br>
+<hr>
 <b>Do you provide code support?</b>
-<p>We do not support with code anymore. This hasn't always been the case, it's just come to the point where supporting took more time
-then developing took.</p>
+<p>We do not offer support with code anymore. This hasn't always been the case, it's just come to the point where supporting took more time
+then developing and we would like to focus on maintaining our code.</p>
 <br>
 <b>When will my feature I've requested be added?</b>
 <p>First off, features requested will only be considered through the #suggestions channel on our Discord server. If you do submit a
