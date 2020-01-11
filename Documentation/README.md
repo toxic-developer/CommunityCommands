@@ -25,12 +25,13 @@ go to the "Releases" section and download the newest version to avoid any issues
 <b>Do you provide code support?</b>
 <p>We do not offer support with code anymore. This hasn't always been the case, it's just come to the point where supporting took more time
 then developing and we would like to focus on maintaining our code.</p>
-<br>
+<hr>
 <b>When will my feature I've requested/suggested be added?</b>
 <p>First off, features requested will only be considered through the steps provided above. If you do submit a
 request, it will enter into a review state. Our team will decide how much resources are needed and how much time it will take to
 develop before giving you a response. Keep in mind, not all requests are accepted.</p>
 </div>
+<hr>
 <br>
 <h1 style="font-size: 92px; margin-bottom: -5px;">Documentation</h1>
 <br>
