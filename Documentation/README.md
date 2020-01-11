@@ -19,7 +19,7 @@ Command you would like to see added you can make a suggestion Using our Command 
 <hr>
 <b>Are there any requirements?</b>
 <p>FiveM Community Commands is coded to work along side my FiveMToDiscord Logs Script.</p>
-<p>That can be found <a target="_blank" onclick="trackCampaignWebClick('', 'description');" rel="nofollow" href="https://github.com/TheRealToxicDev/FiveMToDiscord-Logs">Here</a> Make sure you
+<p>That can be found <a target="_blank" onclick="trackCampaignWebClick('', 'description');" rel="nofollow" href="https://github.com/TheRealToxicDev/FiveMToDiscord-Logs">Here</a> <p>Make sure you
 go to the "Releases" section and download the newest version to avoid any issues.</p>
 <hr>
 <b>Do you provide code support?</b>
